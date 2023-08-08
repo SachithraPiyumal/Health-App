@@ -1,0 +1,42 @@
+C:\Users\User\source\repos\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.exe
+C:\Users\User\source\repos\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.deps.json
+C:\Users\User\source\repos\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.runtimeconfig.json
+C:\Users\User\source\repos\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.dll
+C:\Users\User\source\repos\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.pdb
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.Form1.resources
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.AssemblyInfo.cs
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.dll
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.pdb
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.genruntimeconfig.cache
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.DetailsForm.resources
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.OptionForm.resources
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.BMIResultForm.resources
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.CaloriesResultForm.resources
+C:\Users\User\source\repos\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.Properties.Resources.resources
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.exe
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.deps.json
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.runtimeconfig.json
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.dll
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\bin\Debug\netcoreapp3.1\HealthApp.pdb
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.BMIResultForm.resources
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.CaloriesResultForm.resources
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.DetailsForm.resources
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.Form1.resources
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.OptionForm.resources
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.Properties.Resources.resources
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.dll
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.pdb
+C:\Users\User\Desktop\Assignment_02 ICT 19846\HealthApp\HealthApp\obj\Debug\netcoreapp3.1\HealthApp.genruntimeconfig.cache
